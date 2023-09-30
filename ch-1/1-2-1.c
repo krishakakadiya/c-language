@@ -1,0 +1,10 @@
+#include<stdio.h.
+#include<conio.h>
+main()
+{
+clrscr();
+printf("name\t:krisha.k!!\n");
+print("age\t:16\n");
+print("school\t:brilliant\n");
+getch();
+}
