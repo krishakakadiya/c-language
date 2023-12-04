@@ -39,13 +39,14 @@ main(){
 
     for(i=1;i<=n;i++){
 
-    printf("Id:%d\t",os.Id);
-    printf("NAME:%s\t",os.name);
-    printf("AGE:%d\t",os.age);
-    printf("COURSE:%s\t",os.course);
-    printf("CITY:%s\t",os.city);
-    printf("STANDARD:%d\t",os.standard);
-    printf("SCHOOL:%s\t",os.school);
+    printf("Id:%d\n",os.Id);
+    printf("NAME:%s\n",os.name);
+    printf("AGE:%d\n",os.age);
+    printf("COURSE:%s\n",os.course);
+    printf("CITY:%s\n",os.city);
+    printf("STANDARD:%d\n",os.standard);
+    printf("SCHOOL:%s\n",os.school);
+
     if(i<n){
     printf("----------:DATA OF STUDENT:%d-------\n",s);
     s++;
